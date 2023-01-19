@@ -1,0 +1,3 @@
+{
+  "/villas/:id/availableDays": "/availableDays/:id"
+}
